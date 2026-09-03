@@ -1,2 +1,2 @@
 # skills.make.com
-https://skills.make.com/#install
+https://skills.make.com/#install 
