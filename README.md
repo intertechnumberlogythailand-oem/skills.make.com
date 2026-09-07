@@ -18,6 +18,11 @@ git switch -c docs/คำอธิบายงาน
 
 ```text
 skills.make.com/
+├── .github/
+│   ├── PULL_REQUEST_TEMPLATE.md       # แบบฟอร์ม Pull Request
+│   └── ISSUE_TEMPLATE/                # แบบฟอร์ม Issue
+│       ├── bug_report.md
+│       └── feature_request.md
 ├── .gitignore       # รูปแบบไฟล์ที่ไม่ควร commit
 ├── CONTRIBUTING.md  # คู่มือสำหรับผู้ร่วมมือ
 ├── LICENSE          # MIT License
@@ -25,6 +30,8 @@ skills.make.com/
 ```
 
 โครงการยังอยู่ในระยะเริ่มต้น จึงยังไม่มีคำสั่งติดตั้ง, build หรือ test เพิ่มเติมนอกเหนือจากที่อธิบายไว้ในเอกสาร ผู้ร่วมมือควรตรวจสอบ README และ `CONTRIBUTING.md` ทุกครั้งก่อนเริ่มงาน
+
+เมื่อเปิด Issue หรือ Pull Request บน GitHub ให้เลือกเทมเพลตที่ตรงกับงาน กรณีพบข้อผิดพลาดให้ใช้แบบฟอร์มรายงานข้อผิดพลาด และกรณีเสนอความสามารถหรือการปรับปรุงให้ใช้แบบฟอร์มข้อเสนอฟีเจอร์
 
 ## ลิขสิทธิ์
 
